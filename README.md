@@ -166,7 +166,7 @@ removal and Grad-CAM are toggleable in the sidebar.
 
 | Member | Primary responsibility |
 |--------|------------------------|
-| Muhammad Iz'aan Khan Bin Mubarak | Model selection, transfer-learning training, tuning, evaluation |
+| Vinoth Naidu A/L Sri Padmanathan | Model selection, transfer-learning training, tuning, evaluation |
 | Dinesh Waren a/l Rajasingam | Dataset, preprocessing pipeline, augmentation, split |
 | Paviteran A/L Arumugam | System integration, Streamlit UI, Grad-CAM implementation |
-| Vinoth Naidu A/L Sri Padmanathan | Quantitative evaluation, confusion-matrix analysis, report, slides |
+| Muhammad Iz'aan Khan Bin Mubarak | Quantitative evaluation, confusion-matrix analysis, report, slides |
