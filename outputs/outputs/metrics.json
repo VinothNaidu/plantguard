@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.9759,
+  "precision_macro": 0.9704,
+  "recall_macro": 0.9662,
+  "f1_macro": 0.9677,
+  "precision_weighted": 0.9761,
+  "recall_weighted": 0.9759,
+  "f1_weighted": 0.9756,
+  "inference_ms_per_image": 7.333,
+  "n_test": 8179,
+  "n_classes": 38
+}

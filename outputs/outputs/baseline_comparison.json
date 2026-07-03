@@ -1,0 +1,15 @@
+{
+  "MobileNetV2_transfer": {
+    "accuracy": 0.9759,
+    "f1_macro": 0.9677,
+    "inference_ms_per_image": 7.333
+  },
+  "Baseline_CNN_scratch": {
+    "accuracy": 0.9759,
+    "f1_macro": 0.9689,
+    "inference_ms_per_image": 4.024
+  },
+  "literature_reference": {
+    "Simon_et_al_2020_basic_CNN_accuracy": 0.88
+  }
+}
